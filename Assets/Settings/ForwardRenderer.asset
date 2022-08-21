@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5a7d0a0cabed4d66a61b558fd71175a, type: 3}
   m_Name: DownSamplingRenderFeature
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   downSample: 2
 --- !u!114 &-1993910376547419071
 MonoBehaviour:
@@ -35,8 +35,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   outlineSettings:
-    outlineColor: {r: 0, g: 0, b: 0, a: 1}
-    outlineScale: 1.28
+    outlineColor: {r: 0.5943396, g: 0.5889329, b: 0.5186454, a: 1}
+    outlineScale: 1.2
     depthThreshold: 1
     robertsCrossMultiplier: 100
     normalThreshold: 0.4
